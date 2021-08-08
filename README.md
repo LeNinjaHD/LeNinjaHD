@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, ich bin LeNinjaHD!</h1>
+<h1>Hello, im LeNinjaHD</h1>
 </div>
 
 <!-- 
