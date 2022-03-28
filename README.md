@@ -14,11 +14,18 @@
 <!--END_SECTION:waka-->
 <div align="center">
 	
-![LeNinjaHDs's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeNinjaHD&show_icons=true&theme=vision-friendly-dark)
+<span>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=leninjahd&margin-w=15&row=1" />
+</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeNinjaHD)](https://github.com/anuraghazra/github-readme-stats)
-	
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leninjahd)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leninjahd&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
+</span>
+
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=leninjahd&layout=compact&theme=dark" />
+</span>
+
 ---
 
 </details>
