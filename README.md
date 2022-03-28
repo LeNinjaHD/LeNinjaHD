@@ -1,9 +1,8 @@
 <div align="center">
 
 <h1>Hello, im LeNinjaHD</h1>
-[![wakatime](https://wakatime.com/badge/user/e57ae8c9-fa5d-411d-8421-359c397c2535.svg)](https://wakatime.com/@e57ae8c9-fa5d-411d-8421-359c397c2535)
 </div>
-
+[![wakatime](https://wakatime.com/badge/user/e57ae8c9-fa5d-411d-8421-359c397c2535.svg)](https://wakatime.com/@e57ae8c9-fa5d-411d-8421-359c397c2535)
 
 <!--
 
