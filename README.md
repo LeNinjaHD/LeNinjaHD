@@ -3,7 +3,7 @@
 <h1>Hello, im LeNinjaHD</h1>
 </div>
 
-<!-- 
+
 **Languages and Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -17,7 +17,7 @@
 <img align="left" alt="Unity" width="26px" src="https://gallery.leapmotion.com/wp-content/uploads/2016/12/unity-logo.png" />
 <img align="left" alt="C#" width="26px" src="https://skillvalue.com/jobs/wp-content/uploads/sites/7/2019/01/csharp_logo.png" />
 <img align="left" alt="Java" width="26px" src="http://www.athenaglobus.com/wp-content/uploads/2014/12/java-logo-png.png" /> 
--->
+
 
 <!--
 
