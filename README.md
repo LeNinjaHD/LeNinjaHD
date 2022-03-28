@@ -32,7 +32,8 @@
 ![LeNinjaHDs's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeNinjaHD&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeNinjaHD)](https://github.com/anuraghazra/github-readme-stats)
-
+	
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=leninjahd)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 </details>
